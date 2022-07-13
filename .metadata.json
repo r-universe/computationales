@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "rpmodel",
+    "oncran": true
+  }
+]
